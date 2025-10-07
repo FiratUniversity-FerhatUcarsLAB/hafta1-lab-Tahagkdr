@@ -1,4 +1,16 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541092
+AD-SOYAD: Muhammed Taha Gökdere 
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Seçtigim görev:Sınıf  notlarının yükseten düşüge sırlama algoritması
+
+
+1. Başla
+2. "notlar" adlı bir liste tanımla.
+3. Listedeki tüm notları sırala:
+      a. Her notu diğerleriyle karşılaştır.
+      b. Eğer not1 < not2 ise, yerlerini değiştir.
+4. Tüm karşılaştırmalar bitince liste yüksekten düşüğe dizilmiş olur.
+5. Sıralanmış listeyi ekrana yazdır.
+6. Bitir
