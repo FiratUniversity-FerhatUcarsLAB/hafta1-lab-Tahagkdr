@@ -1,4 +1,23 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541092
+AD-SOYAD: Muhammed Taha Gökdere 
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Seçtiğim görev:Basit kart oyunu stratejisi algoritmasu
+
+
+1. Oyuncunun elindeki kartları sırala (küçükten büyüğe).
+2. Her tur için:
+      a. Eğer rakip kartı bilinmiyorsa:
+            - Orta değerli bir kart oyna (risk dengesi için).
+      b. Eğer rakip kartı biliniyorsa:
+            - Eğer rakip kart < senin en küçük kartın → en küçük kazanan kartı oyna.
+            - Eğer rakip kart > senin en büyük kartın → en küçük kartı feda et.
+            - Aksi durumda → ortalama değerli bir kart oyna.
+3. Oynanan kartı elden çıkar.
+4. Her tur sonunda puanları güncelle.
+5. Tüm turlar bitince:
+      - Toplam puanları karşılaştır.
+      - Eğer senin puanın yüksekse: "Kazanıldı"
+      - Değilse: "Kaybedildi"
+
