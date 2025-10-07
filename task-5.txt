@@ -1,4 +1,39 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541092
+AD-SOYAD: Muhammed Taha Gökdere 
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Seçtigim görev:sosyal medyada viral olma algoritması
+
+
+
+1. İçerik Üretimi:
+   - Trend konuları analiz et.
+   - Kısa, dikkat çekici bir giriş oluştur (ilk 3 saniye altın kural).
+   - Görsel kalite + ses + altyazı uyumunu kontrol et.
+   - Mesaj net, sade ve duygusal etki taşısın.
+
+2. Zamanlama:
+   - Platforma göre en aktif saatleri belirle.
+   - Hedef kitlenin çevrimiçi yoğun olduğu zamanda paylaş.
+
+3. Etkileşim Tetikleme:
+   - Başlığa soru veya tepki uyandırıcı ifade koy ("Sizce haklı mı?", "Bunu kimse fark etmedi mi?")
+   - Hashtag’leri stratejik seç (#trend #viral #shorts).
+   - İlk 10 dakika içinde yorumlara yanıt ver (algoritma aktif etkileşimi sever).
+
+4. Yayılım Döngüsü:
+   - Paylaşım sonrası ilk 1 saat içinde gelen etkileşim oranını ölç.
+   - Eğer etkileşim yüksekse → platform içi “önerilen içerik” listesine girme olasılığı artar.
+   - Düşükse → başlık, etiket veya önizleme görselini optimize et (A/B testi).
+
+5. Topluluk Etkisi:
+   - Diğer kullanıcıların paylaşma isteğini artıracak “değer” unsuru ekle:
+        a. Bilgi → öğretici içerik
+        b. Duygu → empati veya mizah
+        c. Kimlik → “Ben de böyleyim” hissi
+   - Bu 3 değerden en az biri içerikte olmalı.
+
+6. Süreklilik:
+   - İlk viral içerikten sonra 24–48 saat içinde benzer temada yeni içerik paylaş.
+   - Algoritma seni “aktif üretici” olarak tanır ve görünürlüğü artırır.
