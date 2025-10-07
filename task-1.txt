@@ -14,3 +14,77 @@ Seçtigim Görev:En kısa sürede üniversiteye gitme algoritması.
 7. Rotayı çıktı olarak ver: (En kısa süreli güzergah).
 
 
+Seçtigim görev:Basit kart stratejisi 
+
+1. Oyuncunun elindeki kartları sırala (küçükten büyüğe).
+2. Her tur için:
+      a. Eğer rakip kartı bilinmiyorsa:
+            - Orta değerli bir kart oyna (risk dengesi için).
+      b. Eğer rakip kartı biliniyorsa:
+            - Eğer rakip kart < senin en küçük kartın → en küçük kazanan kartı oyna.
+            - Eğer rakip kart > senin en büyük kartın → en küçük kartı feda et.
+            - Aksi durumda → ortalama değerli bir kart oyna.
+3. Oynanan kartı elden çıkar.
+4. Her tur sonunda puanları güncelle.
+5. Tüm turlar bitince:
+      - Toplam puanları karşılaştır.
+      - Eğer senin puanın yüksekse: "Kazanıldı"
+      - Değilse: "Kaybedildi"
+
+Seçtigim görev:Sınıf notlarının yüksekten düşüge sıralama.
+
+1. Başla
+2. "notlar" adlı bir liste tanımla.
+3. Listedeki tüm notları sırala:
+      a. Her notu diğerleriyle karşılaştır.
+      b. Eğer not1 < not2 ise, yerlerini değiştir.
+4. Tüm karşılaştırmalar bitince liste yüksekten düşüğe dizilmiş olur.
+5. Sıralanmış listeyi ekrana yazdır.
+6. Bitir
+
+Seçtigim görev: otobüs rotasyonu optimizasyonu
+
+
+1. Başlangıç noktasını "mevcut konum" olarak belirle.
+2. Ziyaret edilmemiş tüm durakları listele.
+3. Mevcut konuma en yakın durağı bul (mesafe = en kısa).
+4. O durağa git → süreyi ve mesafeyi topla.
+5. Gidilen durağı "ziyaret edildi" olarak işaretle.
+6. Yeni mevcut konumu bu durak olarak güncelle.
+7. Tüm duraklar bitene kadar 3–6 arası adımları tekrarla.
+8. (İsteğe bağlı) Son duraktan başlangıç noktasına geri dön.
+9. Toplam mesafe ve süreyi hesapla.
+
+
+Seçtigim görev:Sosyal medyada viral olma 
+
+1. İçerik Üretimi:
+   - Trend konuları analiz et.
+   - Kısa, dikkat çekici bir giriş oluştur (ilk 3 saniye altın kural).
+   - Görsel kalite + ses + altyazı uyumunu kontrol et.
+   - Mesaj net, sade ve duygusal etki taşısın.
+
+2. Zamanlama:
+   - Platforma göre en aktif saatleri belirle.
+   - Hedef kitlenin çevrimiçi yoğun olduğu zamanda paylaş.
+
+3. Etkileşim Tetikleme:
+   - Başlığa soru veya tepki uyandırıcı ifade koy ("Sizce haklı mı?", "Bunu kimse fark etmedi mi?")
+   - Hashtag’leri stratejik seç (#trend #viral #shorts).
+   - İlk 10 dakika içinde yorumlara yanıt ver (algoritma aktif etkileşimi sever).
+
+4. Yayılım Döngüsü:
+   - Paylaşım sonrası ilk 1 saat içinde gelen etkileşim oranını ölç.
+   - Eğer etkileşim yüksekse → platform içi “önerilen içerik” listesine girme olasılığı artar.
+   - Düşükse → başlık, etiket veya önizleme görselini optimize et (A/B testi).
+
+5. Topluluk Etkisi:
+   - Diğer kullanıcıların paylaşma isteğini artıracak “değer” unsuru ekle:
+        a. Bilgi → öğretici içerik
+        b. Duygu → empati veya mizah
+        c. Kimlik → “Ben de böyleyim” hissi
+   - Bu 3 değerden en az biri içerikte olmalı.
+
+6. Süreklilik:
+   - İlk viral içerikten sonra 24–48 saat içinde benzer temada yeni içerik paylaş.
+   - Algoritma seni “aktif üretici” olarak tanır ve görünürlüğü artırır.
